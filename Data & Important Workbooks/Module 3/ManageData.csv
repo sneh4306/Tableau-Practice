@@ -1,0 +1,21 @@
+Employee_ID,Employee Name,Join Date,Department,text1,text2,Salary
+ID_123465,Morgan Baxter,01/12/2017,IT,Germany,Berlin,3000.26
+ID_123987,Avery Ross,05/06/2016,IT,Germany,Berlin,200.58
+ID_325654,Ray Morgan,03/12/2018,Marketing,Germany,Hamburg,1500.46
+ID_417523,Skylar Davidson,01/02/2019,HR,Germany,Hamburg,3800.86
+ID_456963,Franky Evans,02/01/2019,Marketing,Germany,Munich,2500.96
+ID_741963,Jamie Robertson,03/12/2018,IT,Spain,Madrid,4600.56
+ID_753951,Logan Herrera,04/12/2018,Finance,Spain,Madrid,5000.52
+ID_785213,Eli Young,14/10/2018,IT,Spain,Barcelona,2000.14
+ID_785614,Sidney Hunter,24/09/2018,Finance,Spain,Barcelona,2100.23
+ID_789254,Reed Howard,03/08/2017,HR,Italy,Rome,3200.87
+ID_789951,Charlie Williams,01/02/2019,HR,Italy,Rome,4100.41
+ID_793214,Oscar Murray,01/06/2018,Finance,Italy,Milan,5200.22
+ID_798852,Alice Ross,08/03/2016,Finance,Italy,Milan,5500.32
+ID_851456,Malcom Fulton,14/01/2019,IT,United Kingdom,London,6000.48
+ID_852456,Katee Collingwood,14/02/2019,Finance,United Kingdom,London,7000.63
+ID_852741,Bertie Dukes,12/11/2018,HR,United Kingdom,London,5000.51
+ID_896321,Missy Grant,16/08/2018,HR,United Kingdom,Brighton,2000.23
+ID_951753,Sienna Gallagher,14/03/2018,Finance,Switzerland ,Zurich,1000.22
+ID_963785,Alexis John,12/01/2018,Finance,Netherlands,Amsterdam,1500.78
+ID_985147,Juliette Edwards,11/06/2018,Marketing,France,Paris,2800.96
